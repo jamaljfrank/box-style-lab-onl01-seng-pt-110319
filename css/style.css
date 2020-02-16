@@ -65,4 +65,6 @@ h4 {
 
 .large {
   width: 303%;
+  box-sizing: border-box;
+  border: solid ;
 }
